@@ -6,4 +6,5 @@
 - [x] setting travis<br>
 - [x] setting phpcs ( untuk codestyle)<br>
 - [ ] setting ci/cd<br>
+- [ ] setting code climate (https://codeclimate.com)
 - [ ] auto deploy ke VPS dari branch tertentu

@@ -1,6 +1,8 @@
-# Laravel TDD Project
+# Repository Untuk Belajar CI/CD & Github Action
 
-[![Build Status](https://travis-ci.org/nafiesl/Laravel-TDD.svg?branch=master)](https://travis-ci.org/nafiesl/Laravel-TDD)
+[![Build Status](https://travis-ci.com/github/nurisakbar/laravel-CI-CD.svg?branch=main)](https://travis-ci.com/github/nurisakbar/laravel-CI-CD)
 
-## About
-Source code laravel testing pada blog https://blog.nafies.id/tags/#testing.
+## Todo : 
+- setting travis<br>
+- setting phpcs ( untuk codestyle)<br>
+- setting ci/cd<br>

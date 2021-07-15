@@ -5,5 +5,5 @@
 ## Todo :
 - [x] setting travis<br>
 - [x] setting phpcs ( untuk codestyle)<br>
-- [] setting ci/cd<br>
-- [] auto deploy ke VPS dari branch tertentu
+- [ ] setting ci/cd<br>
+- [ ] auto deploy ke VPS dari branch tertentu

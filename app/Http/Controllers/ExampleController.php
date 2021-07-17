@@ -8,6 +8,6 @@ class ExampleController extends Controller
 {
     public function index(Request $request)
     {
-        return ['data'=>'example'];
+        return ['data' => 'example'];
     }
 }
